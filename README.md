@@ -1,4 +1,5 @@
 # STM32F407 ADC + PWM LED Dimmer
+https://github.com/user-attachments/assets/457d1165-3eb9-42ff-a3ee-b941a908d894
 
 Reads a potentiometer through ADC1 (PA1) and controls the brightness of the onboard green LED (PD12) using PWM from TIM4 Channel 1.
 
